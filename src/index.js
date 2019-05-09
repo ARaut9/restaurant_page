@@ -1,1 +1,3 @@
-alert('Hello, World');
+import { loadPage } from './loadPageModule';
+
+loadPage();
