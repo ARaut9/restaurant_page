@@ -1,0 +1,32 @@
+#content {
+    height: 100vh;
+    color: #fff;
+    background-image: url("chairs-menu-restaurant-6267.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+p {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+nav ul {
+    max-width: 85%;
+    margin: 20px auto;
+    display: flex;
+}
+
+nav ul li {
+    flex: 1;
+    padding: 10px 20px;
+    background-color: #333;
+    text-align: center;
+}
